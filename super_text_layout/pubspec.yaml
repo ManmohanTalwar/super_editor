@@ -13,7 +13,7 @@ dependencies:
 
   attributed_text: ^0.2.2
   collection: ^1.18.0
-  logging: ^1.0.1
+  logging: ^1.2.0
 
   # For inspector
   flutter_test:
@@ -26,10 +26,10 @@ dependency_overrides:
     path: ../attributed_text
 
 dev_dependencies:
-  flutter_lints: ^2.0.1
+  flutter_lints: ^3.0.1
   golden_toolkit: ^0.15.0
-  args: ^2.3.1
-  meta: ^1.8.0
+  args: ^2.4.2
+  meta: ^1.10.0
   golden_runner:
     path: ../golden_runner
 
